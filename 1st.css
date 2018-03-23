@@ -1,0 +1,158 @@
+body{
+	background: url("2018-03-08-PHOTO-00000119.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*.marquee h1{
+position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll-left 5s linear infinite;
+ -webkit-animation: scroll-left 5s linear infinite;
+ animation: scroll-left 5s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Browser bug fix */
+ -webkit-transform: translateX(100%); /* Browser bug fix */
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); /* Browser bug fix */
+ -webkit-transform: translateX(-100%); /* Browser bug fix */
+ transform: translateX(-100%); 
+ }
+}
+*/
+
+.rare{
+	text-align: center;
+	background-image: url("033.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.rare1{
+	background-image: url("034.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.rare2{
+	background-image: url("035.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.rare3{
+	background-image: url("036.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.rare4{
+	background-image: url("037.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.rare5{
+	background-image: url("Cover Pad.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bio {
+    text-align: justify;
+}
+
+.bio img {
+    display: inline-block;
+    width: 30%;
+    height: 50%x;
+}
+
+.bio:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.cio {
+    text-align: justify;
+}
+
+.cio img {
+    display: inline-block;
+    width: 30%;
+    height: 50%x;
+}
+
+.cio:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+
+/**.div1{
+	width: 33%;
+	height: 50%;
+	align-content: left;
+	content: url(_DSC0096.jpg);
+	display: inline-block;
+}
+.div2{
+	width: 33%;
+	height: 50%;
+	align-content: center;
+	/**content: url(_DSC0088.jpg);
+	display: inline-block;
+}
+.div3{
+	width: 33%;
+	height: 50%;
+	align-content: right
+	content: url(_DSC0087.jpg);
+	display: inline-block;
+}
+.div4{
+	width: 33.33%;
+	height: 50%;
+	content: url(_DSC0078.jpg);
+		display: inline-block;
+}
+.div5{
+	width: 33.33%;
+	height: 50%;
+	content: url(_DSC0064.jpg);
+	display: inline-block;
+}
+.div6{
+	width: 33.33%;
+	height: 50%;
+	content: url(_DSC0063.jpg);
+		display: inline-block;
+}**/
