@@ -1,0 +1,20 @@
+body{
+	background:black;
+	text-transform: uppercase;
+}
+
+.told{
+	background:red;
+	text-align: center;
+	font-family: IBM Plex Mono;
+	font-size: 50px;
+	margin: 1.40;
+}
+.coll{
+	float:left;
+}
+img{
+	width: 30.00%;
+	height: 30.00%;
+	margin: 1.40%;
+}

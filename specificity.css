@@ -1,0 +1,16 @@
+/* property apllied to each tag behaves as such it is described at spcificity and inheritence
+with specceficity we can have multiple styles to an element
+*/
+body{
+	color: red;
+}
+ul{
+	background:purple;
+	color:yellow;
+}
+p{
+	color: green;
+}
+.bard{
+	color:blue;
+}

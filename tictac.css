@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+}
+table{
+	margin: auto;
+}
+td{
+
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+.vert{
+	border-left: 2px black solid;
+	border-right: 2px black solid;
+
+}
+.hori{
+	border-bottom: 2px black solid
+}

@@ -1,0 +1,16 @@
+body{
+	background: url("_DSC0096.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+li{
+	border: solid 5px red;
+}
+#data{
+	background-color: yellow;
+}
+
+.bar{
+
+	text-decoration: underline green;
+}

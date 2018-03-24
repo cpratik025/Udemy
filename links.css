@@ -1,0 +1,44 @@
+/* Star Selector- selects everything on a page*/
+*{
+	border: 1px solid grey;
+}
+
+
+/* decendent selector- it takes 2 or more tag names*/
+li a{
+	color:red;
+}
+
+
+/* Adjescent selector- selects all ul that is fllowed just by h1*/
+h1 + ul{
+	border: solid 2px blue;
+}
+
+/* Attribute selector- selects based on attribute*/
+a[href="google.ca"]{
+	background: yellow;
+}
+
+/*
+input[type='checked/text'] {
+	background:yellow 1px solid;
+}
+*/
+
+/*Nth Type Selector-
+
+
+
+li:nth-of-type(even/odd){
+	background: maroon;
+}
+
+*/
+ul:nth-of-type(3){
+	background: green;
+}
+
+li:nth-of-type(3){
+	background: maroon;
+}
