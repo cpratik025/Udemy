@@ -1,0 +1,22 @@
+html{
+	height: 100%; 
+}
+body{
+	background: url(_DSC0087.jpg);
+	background-size: cover;
+	background-position: center;
+}
+#content{
+	text-align: center;
+	font-family: Lobster;
+	font-size: 5em;
+	color: pink;
+	padding-top: 25%;
+	text-shadow:  0px 4px 3px green, 0px 8px  13px orange, 0px 12px  233px yellow;
+	
+}
+hr{
+	width: 800px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
